@@ -44,7 +44,7 @@ const studentProfile = {
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/advikachandras/1447039"
     }
   ],
 
