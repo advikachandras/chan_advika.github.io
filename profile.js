@@ -15,7 +15,8 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "My scientific interests center on bioinformatics, genomics, molecular biology, and genetic engineering. I am particularly interested in using computational and experimental approaches to understand gene function, analyze genomic data, and develop solutions for complex biological and medical challenges. I am also fascinated by synthetic biology, microbial engineering, and the application of biotechnology to precision medicine and human health. Through research, I hope to contribute to discoveries that bridge computational analysis with laboratory science to improve disease diagnosis and treatment.
+",
 
   /*
   Optional photo:
