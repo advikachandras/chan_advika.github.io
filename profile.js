@@ -28,7 +28,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "advika.chandras97@gmail.com",
 
   /*
   RPubs activities:
