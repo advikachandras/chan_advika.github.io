@@ -15,8 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "My scientific interests center on bioinformatics, genomics, molecular biology, and genetic engineering. I am particularly interested in using computational and experimental approaches to understand gene function, analyze genomic data, and develop solutions for complex biological and medical challenges. I am also fascinated by synthetic biology, microbial engineering, and the application of biotechnology to precision medicine and human health. Through research, I hope to contribute to discoveries that bridge computational analysis with laboratory science to improve disease diagnosis and treatment.
-",
+  bio: "My scientific interests center on bioinformatics, genomics, molecular biology, and genetic engineering. I am particularly interested in using computational and experimental approaches to understand gene function, analyze genomic data, and develop solutions for complex biological and medical challenges. I am also fascinated by synthetic biology, microbial engineering, and the application of biotechnology to precision medicine and human health. Through research, I hope to contribute to discoveries that bridge computational analysis with laboratory science to improve disease diagnosis and treatment.",
 
   /*
   Optional photo:
@@ -39,13 +38,13 @@ const studentProfile = {
   */
   rpubs: [
     {
-      title: "Introduction to R",
-      url: "https://rpubs.com/"
-    },
-    {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/advikachandras/1447039"
-    }
+    },
+    {
+      title: "Exploring TCGA Breast Cancer Clinical Data",
+      url: "https://rpubs.com/advikachandras/1448390"
+    },
   ],
 
   /*
@@ -66,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/advikachandras"
     }
   ]
 };
